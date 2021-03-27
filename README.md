@@ -3,7 +3,7 @@
 
 # Badges & Certificates:
 ## Badges:
-* [template](github.com/5lavomir)
+* [Big Data](https://cognitiveclass.ai/badges/big-data-foundations)
 
 ## Certificates:
 * [Big Data](https://courses.cognitiveclass.ai/certificates/daf56323663648719d112f3f81741835)
