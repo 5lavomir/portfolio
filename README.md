@@ -6,7 +6,9 @@
 * [template](github.com/5lavomir)
 
 ## Certificates:
-* [template](github.com/5lavomir)
+* [Big Data](https://courses.cognitiveclass.ai/certificates/daf56323663648719d112f3f81741835)
+* [Agile Software Development: Code Quality]()
+* 
 
 # Team Projects:
 ## 'Covid19 API', 2 Week Project. 
