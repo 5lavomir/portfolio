@@ -7,7 +7,7 @@
 
 ## Certificates:
 * [Big Data](https://courses.cognitiveclass.ai/certificates/daf56323663648719d112f3f81741835)
-* [Agile Software Development: Code Quality](portfolio/certificates/CertificateOfCompletion_Agile Software Development Code Quality-2.pdf)
+* [Agile Software Development: Code Quality](5lavomir/portfolio/blob/main/certificates/Agile_Software_Development_Code_Quality.pdf)
 * 
 
 # Team Projects:
