@@ -12,7 +12,11 @@
 ## 'Covid19 API', 2 Week Project. 
 [Github Repo](https://github.com/5lavomir/covid19app_team_sprint)
 Frameworks, Services, Technologies and Languages used:
-Vue.js, IBM Cloud, [Covid19 API](https://covid19api.com), [NewsAPI](https://newsapi.org/), HTML, CSS & Javascript
+Vue.js
+IBM Cloud
+[Covid19 API](https://covid19api.com)
+[NewsAPI](https://newsapi.org/)
+HTML, CSS & Javascript
 
 ## IBM's Call for Code University Spot Challenge - Climate Change (Second Place)
 [Click here for Github Repo](https://github.com/5lavomir/Sustain)
