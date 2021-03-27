@@ -21,7 +21,7 @@ Frameworks, Services, Technologies and Languages used:
 
 ## IBM's Call for Code University Spot Challenge - Climate Change (Second Place)
 
-[Click here for Github Repo](https://github.com/5lavomir/Sustain)
+[Github Repo](https://github.com/5lavomir/Sustain)
 
 [Presentation on YouTube](https://youtu.be/hJyC8kYN29I)
 
