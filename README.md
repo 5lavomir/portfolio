@@ -19,7 +19,7 @@ Vue.js, IBM Cloud, [Covid19 API](https://covid19api.com), [NewsAPI](https://news
 [Presentation on YouTube](https://youtu.be/hJyC8kYN29I)
 [Click here to see IBM's announcement for our team on YouTube](https://youtu.be/GmEKql_ZfGg?t=827)
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-<p>Frameworks and Services used: </p>
+Frameworks and Services used:
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The cloud compute used
 * [IBM Object Storage](https://cloud.ibm.com/catalog?search=object%20storage#search_results) - The image storage solution used
