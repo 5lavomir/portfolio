@@ -1,4 +1,4 @@
-[My LinkedIn](https://www.linkedin.com/in/slawomir-szakalinis)
+#[My LinkedIn](https://www.linkedin.com/in/slawomir-szakalinis)
 
 
 # Badges & Certificates:
