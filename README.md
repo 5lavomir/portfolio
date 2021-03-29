@@ -35,7 +35,7 @@ Frameworks and Services used:
 * [Flutter](https://flutter.dev/) - App framework used
 
 # Solo Projects:
-## Geomertic Calculator, NC Level 5, UHI College. 
+## Geomertic Calculator, NC Level 5 - UHI College. 
 [Github Repo](https://github.com/5lavomir/geometric_calculator)\
 Languages used:
 * HTML
