@@ -25,12 +25,9 @@ Frameworks, Services, Technologies and Languages used:
 * HTML, CSS & Javascript
 
 ## IBM's Call for Code University Spot Challenge - Climate Change (Second Place)
-
-[Github Repo](https://github.com/5lavomir/Sustain)
-
-[Presentation on YouTube](https://youtu.be/hJyC8kYN29I)
-
-[Click here to see IBM's announcement for our team on YouTube](https://youtu.be/GmEKql_ZfGg?t=827)_
+[Github Repo](https://github.com/5lavomir/Sustain)\
+[Presentation on YouTube](https://youtu.be/hJyC8kYN29I)\
+[Click here to see IBM's announcement for our team on YouTube](https://youtu.be/GmEKql_ZfGg?t=827)\
 Frameworks and Services used:
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The cloud compute used
