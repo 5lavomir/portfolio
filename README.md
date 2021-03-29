@@ -33,3 +33,11 @@ Frameworks and Services used:
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The cloud compute used
 * [IBM Object Storage](https://cloud.ibm.com/catalog?search=object%20storage#search_results) - The image storage solution used
 * [Flutter](https://flutter.dev/) - App framework used
+
+# Solo Projects:
+## Geomertic Calculator, NC Level 5, UHI College. 
+[Github Repo](https://github.com/5lavomir/geometric_calculator)\
+Languages used:
+* HTML
+* CSS
+* JavaScript
