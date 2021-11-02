@@ -16,8 +16,7 @@
 
 # Team Projects:
 ## 'Covid19 API', 2 Week Project. 
-[Github Repo](https://github.com/5lavomir/covid19app_team_sprint)
-
+[Github Repo](https://github.com/5lavomir/covid19app_team_sprint)\
 Frameworks, Services, Technologies and Languages used:
 * Vue.js
 * IBM Cloud
@@ -26,15 +25,19 @@ Frameworks, Services, Technologies and Languages used:
 * HTML, CSS & Javascript
 
 ## IBM's Call for Code University Spot Challenge - Climate Change (Second Place)
-
-[Github Repo](https://github.com/5lavomir/Sustain)
-
-[Presentation on YouTube](https://youtu.be/hJyC8kYN29I)
-
-[Click here to see IBM's announcement for our team on YouTube](https://youtu.be/GmEKql_ZfGg?t=827)
-
+[Github Repo](https://github.com/5lavomir/Sustain)\
+[Presentation on YouTube](https://youtu.be/hJyC8kYN29I)\
+[Click here to see IBM's announcement for our team on YouTube](https://youtu.be/GmEKql_ZfGg?t=827)\
 Frameworks and Services used:
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 * [IBM Cloud Foundry](https://cloud.ibm.com/catalog?search=cloud%20foundry#search_results) - The cloud compute used
 * [IBM Object Storage](https://cloud.ibm.com/catalog?search=object%20storage#search_results) - The image storage solution used
 * [Flutter](https://flutter.dev/) - App framework used
+
+# Solo Projects:
+## Geomertic Calculator, NC Level 5 - UHI College. 
+[Github Repo](https://github.com/5lavomir/geometric_calculator)\
+Languages used:
+* HTML
+* CSS
+* JavaScript
