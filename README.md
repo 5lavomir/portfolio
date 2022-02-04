@@ -11,6 +11,7 @@
 * [Learning C++](/certificates/Learning_CPP.pdf)
 * [C++ Essential Training 2018](/certificates/C_Essential_Training_2018.pdf)
 * [Introduction to Cybersecurity](/certificates/Cisco_Introduction_to_Cybersecurity.pdf)
+* [Introduction to Open Source](/certificates/IBM_Introduction_to_Open_Source)
 * [Cybersecurity Foundations](/certificates/Cybersecurity_Foundations.pdf)
 * [Cybersecurity with Cloud Computing](/certificates/Cybersecurity_with_Cloud_Computing.pdf)
 * [Java: Testing with JUnit](/certificates/Java_Testing_with_JUnit.pdf)
