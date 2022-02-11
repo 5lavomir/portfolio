@@ -12,6 +12,7 @@
 * [C++ Essential Training 2018](/certificates/C_Essential_Training_2018.pdf)
 * [Programming Foundations APIs and Web Services](/certificates/Programming_Foundations_APIs_and_Web_Services.pdf)
 * [Express Essential Training](/certificates/Express_Essential_Training.pdf)
+* [Node.js RealTime Web with Socket.IO](/certificates/Node.js_RealTime_Web_with_Socket.IO.pdf)
 * [Introduction to Open Source](/certificates/IBM_Introduction_to_Open_Source.pdf)
 * [Introduction to Cybersecurity](/certificates/Cisco_Introduction_to_Cybersecurity.pdf)
 * [Cybersecurity Foundations](/certificates/Cybersecurity_Foundations.pdf)
